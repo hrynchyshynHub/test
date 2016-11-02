@@ -6,7 +6,9 @@ public class Calc {
 	}
 	
 	public int substruct(int a, int b){
+		System.out.println(adsa);
 		return a - b;
+
 	}
 	public int multiply(int a, int b){
 		return a*b;
