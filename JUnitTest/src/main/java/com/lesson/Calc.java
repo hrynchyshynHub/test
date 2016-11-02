@@ -2,7 +2,7 @@ package com.lesson;
 
 public class Calc {
 	public int add(int a, int b){
-		return a+b;
+		return a-b;
 	}
 	
 	public int substruct(int a, int b){
